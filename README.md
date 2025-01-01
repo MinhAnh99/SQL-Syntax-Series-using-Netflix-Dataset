@@ -3,6 +3,7 @@ The Netflix Movies and TV Shows Dataset is used in the example query below to il
 ## Introduction
 About The Dataset
 1.Show_id: A unique ID for a movie or series. Each movie or series in the dataset is assigned a unique number.
+
 2.Type: The type of movie or series. For example, it contains values ​​such as "Movie" or "TV Show".
 3.Title: The title of the movie or series. It indicates the name displayed to the user.
 4.Director: The director of the movie or series. It contains the names of the person or people who directed the production.
