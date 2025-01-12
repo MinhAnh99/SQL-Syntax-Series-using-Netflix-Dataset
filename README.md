@@ -26,3 +26,9 @@ About The Dataset
 13. Listed_in: The categories the movie or series falls into. For example, it includes genres such as "Action", "Drama", "Comedy".
     
 15. Description: A short description of the movie or series. It gives viewers information about the production's plot.
+
+## II. Data Visualization 
+
+
+## III. Insights
+
